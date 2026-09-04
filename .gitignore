@@ -1,0 +1,14 @@
+data/
+sam.sql
+*.sqlite
+*.sqlite3
+*.db
+*.log
+*.pid
+uploads/
+*.zip
+*.xlsx
+*.xls
+.env
+.env.*
+!.env.example

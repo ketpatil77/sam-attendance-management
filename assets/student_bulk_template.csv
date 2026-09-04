@@ -1,0 +1,5 @@
+﻿student_name,student_id,ern_no,batch,department,academic_year,mobile,parent_mobile,city,address
+Aarav Patil,STU001,ERN2026001,2026-30,AI,FY,9876543210,9876500001,Pune,"Shivajinagar, Pune"
+Diya Sharma,STU002,ERN2026002,2026-30,CE,FY,9876543211,9876500002,Mumbai,"Andheri East, Mumbai"
+Kabir Joshi,STU003,ERN2026003,2025-29,ME,SY,9876543212,,Nashik,"College Road, Nashik"
+
